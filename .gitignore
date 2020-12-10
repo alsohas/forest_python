@@ -6,6 +6,8 @@ results/
 *.bin
 *.part
 
+.idea/
+
 __pycache__/
 *.py[cod]
 *$py.class
