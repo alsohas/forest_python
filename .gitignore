@@ -5,6 +5,9 @@ results/
 *.pkl
 *.bin
 *.part
+*.tar.gz
+*.7z
+*.gz
 
 .idea/
 
